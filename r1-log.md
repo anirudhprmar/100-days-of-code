@@ -9,3 +9,7 @@ Worked with Js async built-in features like readfile , writefile , promises , ca
 
 ### R1D2
 Only coded around some bash scripting and setted up react, didn't coded much.
+
+### R1D3
+
+wrote some express servers , got familiar with syntax of express, basicallly express is a library that lets us create HTTP Servers
