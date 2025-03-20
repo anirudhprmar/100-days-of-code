@@ -13,3 +13,7 @@ Only coded around some bash scripting and setted up react, didn't coded much.
 ### R1D3
 
 wrote some express servers , got familiar with syntax of express, basicallly express is a library that lets us create HTTP Servers
+
+### R1D4
+wrote some more express servers 
+
