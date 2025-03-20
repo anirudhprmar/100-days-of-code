@@ -18,5 +18,12 @@
 
 **Thoughts:** I wrote some express servers utilizing methods like get and post , also used postman for sending requests and understood the need to use app.use(express.json()) to parse json data from request body to js object which gives us access to the request body.
 
+### Day 4: March 20, 2025 
+
+**Today's Progress**: Learned more about express and started to dive into react 
+
+**Thoughts:** I wrote some backend servers using express
+
+
 
 
