@@ -18,5 +18,6 @@ wrote some express servers , got familiar with syntax of express, basicallly exp
 wrote some more express servers 
 
 ### R1D5
+wrote express servers , did command line git , created next app 
 
 
