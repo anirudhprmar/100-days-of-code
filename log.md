@@ -1,30 +1,35 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: March 17, 2025 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: practiced Js async features like readfile, writefile, callbacks, promises, async/await and learned Bash scripting 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I already knew it but I tried to get a deeper understanding of the async JS and played with it. Then I got myself familiar with bash scripting, how it is a lot more accessible version of Linux, and how helpful it is to get a lot of basic movement 
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 2: March 18, 2025 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Learned more Bash scripting, how frontends and backends communicate (client and server) and set up vite react for a project 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** I practiced bash scripting made a couple of cool programs like a game using conditionals , learned about variables and how you can set a variable using .bashrc file which you can use it anytime , how you can do calculations using $(()) syntax and then learned about HTTP , client side contains protocol , URL , route , header , query params, method(GET,POST,PUT,DELETE) and server side has response headers , response , status codes.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 3: March 19, 2025 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: Learned about express  
+
+**Thoughts:** I wrote some express servers utilizing methods like get and post , also used postman for sending requests and understood the need to use app.use(express.json()) to parse json data from request body to js object which gives us access to the request body.
+
+### Day 4: March 20, 2025 
+
+**Today's Progress**: Learned more about express and started to dive into react 
+
+**Thoughts:** I wrote some backend servers using express
+
+### Day 5: March 21, 2025 
+
+**Today's Progress**: 
+
+**Thoughts:** 
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
