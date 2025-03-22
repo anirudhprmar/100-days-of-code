@@ -23,4 +23,7 @@ wrote some more express servers
 ### R1D5
 wrote express servers , did command line git , created next app 
 
+### R1D6
+wrote http server using express
+
 

@@ -37,9 +37,15 @@
 
 ### Day 5: March 21, 2025 
 
-**Today's Progress**: Got the overview of Next js , learned abaout git and github , and worked with express
+**Today's Progress**: Got the overview of Next js , learned about git and github , and worked with express
 
 **Thoughts:** High level working of next js and what it is , Learned git and github like branching , merging , how to make pull requests and how it works everything , and wrote code in express
+
+### Day 6: March 22, 2025 
+
+**Today's Progress**: Just covered express
+
+**Thoughts:**  I can build http servers using express
 
 
 
