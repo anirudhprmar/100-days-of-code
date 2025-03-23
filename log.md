@@ -47,6 +47,12 @@
 
 **Thoughts:**  I can build http servers using express
 
+### Day 7: March 23, 2025 
+
+**Today's Progress**: Learned about react ,understood middlewares and its importance and importance of input validation
+
+**Thoughts:**  I got to know how react works , components , states, server side and client side components( next js) , how to use middlewares , 3 inputs that every middleware takes : req,res and next, input validation
+
 
 
 

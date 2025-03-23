@@ -26,4 +26,7 @@ wrote express servers , did command line git , created next app
 ### R1D6
 wrote http server using express
 
+### R1D7
+wrote a express servers to handle middlewares (helps to perform checks on different routes), need of app.use , input validation importance , zod library to help us with input validation
+
 
