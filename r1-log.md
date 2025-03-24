@@ -29,4 +29,7 @@ wrote http server using express
 ### R1D7
 wrote a express servers to handle middlewares (helps to perform checks on different routes), need of app.use , input validation importance , zod library to help us with input validation
 
+### R1D8
+wrote a input validation using zod , used jwt , learned how to use mongoose to help manage mongoDB properly and practiced middlewares.
+
 

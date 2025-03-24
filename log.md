@@ -53,6 +53,35 @@
 
 **Thoughts:**  I got to know how react works , components , states, server side and client side components( next js) , how to use middlewares , 3 inputs that every middleware takes : req,res and next, input validation
 
+### Day 8: March 24, 2025 
 
+**Today's Progress**: Learned about zod, authentication (hashing,encryption,jwt,localstorage) and databases (noSQL MongoDB with mongoose for schema for mongo)
+
+**Thoughts:**  : I learned about zod a library which helps us to do input validation and in their documentation many different data types usage is mentioned with syntax on how to go about using it , hashing which happens only one way usually used for passwords (once hased you cannot decode it and the way it is used is whenever a user comes to visit the platform the password that they enter gets hashed and it is compared to the password which is stored in the db already hased and if both matches the user is logged in )
+Hashing
+Consistency (same input = same hash)
+One-way transformation (can't reverse the hash back to password)
+Unique output for different inputs
+
+So to directly answer your question: The hashed password is ALWAYS the same for the same input, not random, but designed to be secure and non-reversible.
+
+Encryption 
+2 way -> It can be decoded using a key
+
+Json web token
+decoded without password 
+Decoding just reveals the token's contents
+Anyone can decode the token's header and payload
+BUT decoding does NOT mean you can use or validate the token
+but to verify you need A SECRET KEY (not exactly a password)
+The secret is used to verify the token's SIGNATURE
+
+Token Structure:
+
+Header (contains algorithm info)
+Payload (contains claims/data)
+Signature (cryptographically signed part)
+
+and learned about how jwt is stored in localstorage when you create a new account the backend send you jwt back and stores it so that you don't need to enter password again and learned about databases and its importance (large amount of data easily manage,central location data, optimise data usage) and mongoDb utilize and used mongoose to create schema 
 
 
