@@ -32,4 +32,7 @@ wrote a express servers to handle middlewares (helps to perform checks on differ
 ### R1D8
 wrote a input validation using zod , used jwt , learned how to use mongoose to help manage mongoDB properly and practiced middlewares.
 
+### R1D9
+practiced mongoose schema , authentication - jwt , routes
+
 

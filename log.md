@@ -84,4 +84,8 @@ Signature (cryptographically signed part)
 
 and learned about how jwt is stored in localstorage when you create a new account the backend send you jwt back and stores it so that you don't need to enter password again and learned about databases and its importance (large amount of data easily manage,central location data, optimise data usage) and mongoDb utilize and used mongoose to create schema 
 
+### Day 9: March 25, 2025 
 
+**Today's Progress**: Practiced what i learned mongoose schema for mongodb, authentication with jwt and worked with routes 
+
+**Thoughts:**  Used mongoose to build DB schema and created models , middlewares for user ,admin authentication with jwt and passing jwt in headers on every request
