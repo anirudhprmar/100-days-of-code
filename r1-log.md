@@ -35,4 +35,7 @@ wrote a input validation using zod , used jwt , learned how to use mongoose to h
 ### R1D9
 practiced mongoose schema , authentication - jwt , routes
 
+### R1D10
+set up the react project and coded the landing page
+
 
