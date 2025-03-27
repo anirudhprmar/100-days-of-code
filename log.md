@@ -90,8 +90,14 @@ and learned about how jwt is stored in localstorage when you create a new accoun
 
 **Thoughts:**  Used mongoose to build DB schema and created models , middlewares for user ,admin authentication with jwt and passing jwt in headers on every request
 
-### Day 9: March 25, 2025 
+### Day 10: March 26, 2025 
 
 **Today's Progress**: learned about the usage of backend and setted up a new react project 
 
 **Thoughts:**  Having a backend is very important this is how the websites actually talk (using api) , you dont need to share everything on the frontend (the looks and feels of a website) this is where backend comes to play to create routes , manage data with database , and keep things organized. Started a react project called WisdomWave a yt shorts like app but with inspirational quotes so i created landing page for it (used copilot for that )
+
+### Day 11: March 27, 2025 
+
+**Today's Progress**: learned react and built backend for my fullstack prject (WisdomWave)
+
+**Thoughts:**  I dont how to make a functioning backend but im using a random tut and using it as a guide and doing things my way with my app

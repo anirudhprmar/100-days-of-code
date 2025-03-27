@@ -38,4 +38,7 @@ practiced mongoose schema , authentication - jwt , routes
 ### R1D10
 set up the react project and coded the landing page
 
+### R1D11
+worked on the backend of my fullstack project (WisdomWave) and learned React
+
 
