@@ -41,4 +41,7 @@ set up the react project and coded the landing page
 ### R1D11
 worked on the backend of my fullstack project (WisdomWave) and learned React
 
+### R1D12
+built controllers , sending jwt , middleware ,went through the entire code to understand the flow of backend
+
 

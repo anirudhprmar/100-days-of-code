@@ -101,3 +101,9 @@ and learned about how jwt is stored in localstorage when you create a new accoun
 **Today's Progress**: learned react and built backend for my fullstack prject (WisdomWave)
 
 **Thoughts:**  I dont how to make a functioning backend but im using a random tut and using it as a guide and doing things my way with my app
+
+### Day 12: March 28, 2025 
+
+**Today's Progress**: worked on backend of the project
+
+**Thoughts:**  built controllers , sending jwt , middleware , and a lot of bugs when using postman to check up on how things are working and had to go through the entire code from start to understand the flow of backend
