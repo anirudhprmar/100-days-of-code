@@ -44,4 +44,7 @@ worked on the backend of my fullstack project (WisdomWave) and learned React
 ### R1D12
 built controllers , sending jwt , middleware ,went through the entire code to understand the flow of backend
 
+### R1D13
+went through the entire code to understand the flow of backend and faced a lot bugs and have to fix it all 
+
 

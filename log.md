@@ -107,3 +107,9 @@ and learned about how jwt is stored in localstorage when you create a new accoun
 **Today's Progress**: worked on backend of the project
 
 **Thoughts:**  built controllers , sending jwt , middleware , and a lot of bugs when using postman to check up on how things are working and had to go through the entire code from start to understand the flow of backend
+
+### Day 13: March 29, 2025 
+
+**Today's Progress**: worked on backend of the project got struck with a lot of errors , learned about authentication and learned about how frontend and backend communicates (what is internet , web , tcp/ip , http , server, network and how it all works)
+
+**Thoughts:**  errors that i got from the project were about db not connection , internal server error, unable to create new user so have to refactor it all tomorrow , and learned a lot about authentication 
