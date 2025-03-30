@@ -47,4 +47,7 @@ built controllers , sending jwt , middleware ,went through the entire code to un
 ### R1D13
 went through the entire code to understand the flow of backend and faced a lot bugs and have to fix it all 
 
+### R1D14
+didn't have to refactor , i spent time trying to fix bugs and it turns out that there was very minor issue which i created so no refactoring , completely built auth for the project ( signup, login , logout , auth check ) and learned about debouncing and throttling and also learned about importance of ui and ux and the 4 step design process ( data collection , alternatives , prototype and evaluation)
+
 

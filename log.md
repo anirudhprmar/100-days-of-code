@@ -113,3 +113,10 @@ and learned about how jwt is stored in localstorage when you create a new accoun
 **Today's Progress**: worked on backend of the project got struck with a lot of errors , learned about authentication and learned about how frontend and backend communicates (what is internet , web , tcp/ip , http , server, network and how it all works)
 
 **Thoughts:**  errors that i got from the project were about db not connection , internal server error, unable to create new user so have to refactor it all tomorrow , and learned a lot about authentication 
+
+### Day 14: March 30, 2025 
+
+**Today's Progress**: worked on authentication of my project and tested with postman , learned about debouncing and throttling and why is it necessary and learned about ui and ux
+
+**Thoughts:**  the errors like reading prop. null when doing backend , whenever you recieve that you need to be aware that the issue is in your code and it may be a type error (not specifically ) but not using the proper terminology , to prevent sending automatic too many requests which put a lot of load on servers we use debouncing to make sure that when is user is finished writing the thing the user wants to search that when we'll send one request make request sending more optimised and learned about importance of ui and ux and the 4 step design process ( data collection , alternatives , prototype and evaluation)
+
