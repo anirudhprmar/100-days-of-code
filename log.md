@@ -120,3 +120,9 @@ and learned about how jwt is stored in localstorage when you create a new accoun
 
 **Thoughts:**  the errors like reading prop. null when doing backend , whenever you recieve that you need to be aware that the issue is in your code and it may be a type error (not specifically ) but not using the proper terminology , to prevent sending automatic too many requests which put a lot of load on servers we use debouncing to make sure that when is user is finished writing the thing the user wants to search that when we'll send one request make request sending more optimised and learned about importance of ui and ux and the 4 step design process ( data collection , alternatives , prototype and evaluation)
 
+### Day 15: March 31, 2025 
+
+**Today's Progress**: created quotes route on backend for the project and learned why react is used instead of DOM (it is very verbose and time consuming ) and learned about ui / ux pricipals for collecting information about the users
+
+**Thoughts:**  i need to be more focused on building and just shipping things than just consuming content , just gotta build a lot of things to gain the skill expertise and confidence 
+

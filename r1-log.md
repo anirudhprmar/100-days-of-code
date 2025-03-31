@@ -50,4 +50,7 @@ went through the entire code to understand the flow of backend and faced a lot b
 ### R1D14
 didn't have to refactor , i spent time trying to fix bugs and it turns out that there was very minor issue which i created so no refactoring , completely built auth for the project ( signup, login , logout , auth check ) and learned about debouncing and throttling and also learned about importance of ui and ux and the 4 step design process ( data collection , alternatives , prototype and evaluation)
 
+### R1D15
+Done with the backend of the project now just gotta do some tests and work on frontend and then just ship it.
+
 
