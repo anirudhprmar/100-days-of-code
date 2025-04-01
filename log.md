@@ -126,3 +126,9 @@ and learned about how jwt is stored in localstorage when you create a new accoun
 
 **Thoughts:**  i need to be more focused on building and just shipping things than just consuming content , just gotta build a lot of things to gain the skill expertise and confidence 
 
+### Day 16: April 1, 2025 
+
+**Today's Progress**: Tested routes and all worked fine , started building frontend (created pages , components , routing) just frontend work is remaining , learned react works and difference between react and react dom
+
+**Thoughts:**  get more focused and try to get more done each day, well gave a test of ui ux course and i messed it up , gotta retry it again
+

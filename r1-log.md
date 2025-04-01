@@ -53,4 +53,6 @@ didn't have to refactor , i spent time trying to fix bugs and it turns out that 
 ### R1D15
 Done with the backend of the project now just gotta do some tests and work on frontend and then just ship it.
 
+### R1D16
+Tested backend routes and started with frontend
 
