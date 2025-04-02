@@ -56,3 +56,6 @@ Done with the backend of the project now just gotta do some tests and work on fr
 ### R1D16
 Tested backend routes and started with frontend
 
+### R1D17
+worked on routes , auth checks , state management using zustand in frontend of the project
+

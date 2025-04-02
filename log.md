@@ -132,3 +132,9 @@ and learned about how jwt is stored in localstorage when you create a new accoun
 
 **Thoughts:**  get more focused and try to get more done each day, well gave a test of ui ux course and i messed it up , gotta retry it again
 
+### Day 17: April 2, 2025 
+
+**Today's Progress**:set up routes in frontend using react router , built out logic for authentication on frontend (did state management using zustand ) and learned about state , components and re-rendering in react
+
+**Thoughts:**  
+
