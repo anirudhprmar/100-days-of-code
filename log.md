@@ -138,3 +138,9 @@ and learned about how jwt is stored in localstorage when you create a new accoun
 
 **Thoughts:**  
 
+### Day 18: April 2, 2025 
+
+**Today's Progress**:Finished building the sign up page with proper authentication and input validation
+
+**Thoughts:**  i got sick today so didn't got much done
+

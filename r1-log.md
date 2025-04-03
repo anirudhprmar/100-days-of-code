@@ -59,3 +59,5 @@ Tested backend routes and started with frontend
 ### R1D17
 worked on routes , auth checks , state management using zustand in frontend of the project
 
+### R1D18
+Finished building the sign up page with proper authentication and input validation
