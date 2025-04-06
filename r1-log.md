@@ -61,3 +61,6 @@ worked on routes , auth checks , state management using zustand in frontend of t
 
 ### R1D18
 Finished building the sign up page with proper authentication and input validation
+
+### R1D19
+Finished building the login up page with proper authentication and input validation
