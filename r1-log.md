@@ -64,3 +64,6 @@ Finished building the sign up page with proper authentication and input validati
 
 ### R1D19
 Finished building the login up page with proper authentication and input validation
+
+### R1D20
+Finished building profile page where user can upload their profile picture

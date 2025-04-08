@@ -150,3 +150,9 @@ and learned about how jwt is stored in localstorage when you create a new accoun
 
 **Thoughts:**  feeling a lot better just back to grind , gotta set up a few more pages and ready to ship it 
 
+### Day 20: April 8, 2025 
+
+**Today's Progress**:Finished building profile page where user can upload their profile picture
+
+**Thoughts:**  Missed yesterday , had no clue what i was doing , but now its clear , I will just build and will ship this app by sunday
+
