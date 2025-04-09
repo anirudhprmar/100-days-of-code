@@ -67,3 +67,6 @@ Finished building the login up page with proper authentication and input validat
 
 ### R1D20
 Finished building profile page where user can upload their profile picture
+
+### R1D21
+Fixed a ton of issues , set up store , implemented an upload feature , implemented another discover feature 

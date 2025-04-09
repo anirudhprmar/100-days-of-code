@@ -156,3 +156,9 @@ and learned about how jwt is stored in localstorage when you create a new accoun
 
 **Thoughts:**  Missed yesterday , had no clue what i was doing , but now its clear , I will just build and will ship this app by sunday
 
+### Day 21: April 9, 2025 
+
+**Today's Progress**:> Fixed a ton of issues , set up store , implemented an upload feature , implemented another discover feature 
+
+**Thoughts:**  i used copilot to help me understand some things , but at same time i also kinda over used it by generate a fix which i could have done by looking for the bug and fixing it myself which obviously would take some time but that is worth it I guess , so next try to give atleast 30 min or 1 hr before reaching out for help. I enjoyed it , figured shit out from the entire codebase , how things were happening understood a lot of whats happening and learned from it .
+
