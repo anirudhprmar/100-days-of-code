@@ -70,3 +70,6 @@ Finished building profile page where user can upload their profile picture
 
 ### R1D21
 Fixed a ton of issues , set up store , implemented an upload feature , implemented another discover feature 
+
+### R1D22
+styled the quote cards and implemented scroll feature
