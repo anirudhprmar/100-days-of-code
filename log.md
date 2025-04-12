@@ -164,7 +164,18 @@ and learned about how jwt is stored in localstorage when you create a new accoun
 
 ### Day 22: April 10, 2025 
 
-**Today's Progress**:> styled the quote cards and implemented scroll feature
+**Today's Progress**:> styled the quote cards and implemented scroll feature and learned indepth about react how things actually work
 
 **Thoughts:**  need to code more , have patience and be calm when coding , think everything thoroughly 
 
+### Day 23: April 11, 2025 
+
+**Today's Progress**:> fetched random data from a python web scrapper and integrate that within my project , added sidebar , fixed some styling issues, created new component 
+
+**Thoughts:**  
+
+### Day 24: April 12, 2025 
+
+**Today's Progress**:> worked on saving feature on backend and got a lot of issues on the frontend
+
+**Thoughts:**  start day with coding then at evening it gets much like a task not fun

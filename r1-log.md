@@ -73,3 +73,9 @@ Fixed a ton of issues , set up store , implemented an upload feature , implement
 
 ### R1D22
 styled the quote cards and implemented scroll feature
+
+### R1D23
+fetched random data from a python web scrapper and integrate that within my project , added sidebar , fixed some styling issues, created new component 
+
+### R1D24
+worked on saving feature on backend and got a lot of issues on the frontend
