@@ -79,3 +79,6 @@ fetched random data from a python web scrapper and integrate that within my proj
 
 ### R1D24
 worked on saving feature on backend and got a lot of issues on the frontend
+
+### R1D25
+worked on saving , deleting user content , removing user saved content functionality and fixed bugs 

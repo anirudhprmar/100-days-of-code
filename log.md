@@ -179,3 +179,10 @@ and learned about how jwt is stored in localstorage when you create a new accoun
 **Today's Progress**:> worked on saving feature on backend and got a lot of issues on the frontend
 
 **Thoughts:**  start day with coding then at evening it gets much like a task not fun
+
+### Day 25: April 13, 2025 
+
+**Today's Progress**:> worked on saving , deleting user content , removing user saved content functionality and fixed bugs 
+and  Almost ready to ship but had to fix UI and most importantly responsiveness (it is broken and crappy as hell)
+
+**Thoughts:**  you need to go all in , why you half assing , putting too much importance on how you feel instead of getting shit done and also did learned how use comoponents of daisy ui or any other external ui , learned backend stuff how to make things work
